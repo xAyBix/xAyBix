@@ -1,7 +1,7 @@
 # 👋 Hi There
 
-👉 I'm **Akram**, a `Software Engineer` and `Machine Learning Engineer` who enjoy building
-some crazy projects and constantly pushing my limits.
+👉 I'm **Akram**, a `Software Engineer` and `Machine Learning Engineer` who enjoys building crazy projects and constantly pushing my limits.
+
 
 ![Stars](https://i.ibb.co/hx0t6wrW/stars-gh.webp)
 > _"As in the beginning, so until the end."_
