@@ -1,6 +1,6 @@
 # 👋 Hi There
 
-👉 I'm **Akram**, a `Software Engineer` and `Machine Learning Engineer` who enjoys building crazy projects and constantly pushing my limits.
+👉 I'm **Akram BELBEKRI**, a `Software Engineer` and `Machine Learning Engineer` who enjoys building crazy projects and constantly pushing my limits.
 
 
 ![Stars](https://i.ibb.co/hx0t6wrW/stars-gh.webp)
