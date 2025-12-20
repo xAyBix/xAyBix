@@ -17,7 +17,7 @@ some crazy projects and constantly pushing my limits.
 
 - `C`
 
-⁂ Why ? Because why not :p
+⁂ Why ? Because why not `:p`
 
 ---
 ## Currently Working on
