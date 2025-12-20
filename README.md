@@ -25,5 +25,5 @@ some crazy projects and constantly pushing my limits.
 👉 Here are the projects I’m actively developing and iterating on:
 
 -  **Software Engineering Projects**
-  - **Grammify** — a grammar error correction tool
-  - **Onx Language** — a custom programming language (it's pronounced "Phoenix" btw)
+    - **Grammify** — a grammar error correction tool
+    - **Onx Language** — a custom programming language (it's pronounced "Phoenix" btw)
