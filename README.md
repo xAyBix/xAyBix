@@ -28,4 +28,4 @@
     - **Grammify** — a grammar error correction tool
     - **Onx Language** — a custom programming language (it's pronounced "Phoenix" btw)
     - **Lmallah** — a offline map
-    - **MaGCyub** — a personal space that encrypts and compresses files in a secure way
+    - **MaGCyub** — a personal space that encrypts and compresses files in a secure way (it's pronounced "Magi-Cube" btw)
